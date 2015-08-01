@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <contact>
+        <id>nitin-001</id>
+        <name>Nitin Reddy</name>
+        <email>redknitin@gmail.com</email>
+    </contact>
+    <contact>
+        <id>neil-001</id>
+        <name>Neil Reddy</name>
+        <email>k.nitin.r@gmail.com</email>
+    </contact>
+</root>
